@@ -1,0 +1,17 @@
+Para criar acesso (atalho) para a Pasta Pública da FATEC faça:
+
+1. Conecte em alguma rede sem fio da FATEC. ex: PATIO, FATEC-SALAS_9A12, AUDITORIO;
+2. Clique com o botão direito do mouse sobre a area de trabalho (DESKTOP) do seu notebook;
+3. Selecione a opção "NOVO..." e depois clique (botão esquerdo) sobre atalho;
+4. Digite na janela que abriu: \\adminserver\#pública e clique no botão "Avançar";
+	4.1. Será pedido o nome de usuário e senha.
+		Usuário: aluno
+		Senha..: 123Fatec
+	OBS: Marque a opção abaixo do campo senha, "Lembrar minhas credenciais (senhas)" para o notebook acessar a pasta pública sem precisar informar a senha.
+
+5. Informe um nome para o atalho. ex: PASTA PÚBICA da FATEC;
+6. Clique no botão "CONCLUIR".
+
+Pronto seu atalho esta criado e quando estiver conectado a qualquer rede da FATEC Mogi você podera acessar a PASTA PÚBLICA para copiar as aulas dadas pelo professores.
+
+Qualquer dúvida procure pelo APOIO TÉCNICO.
